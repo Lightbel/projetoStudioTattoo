@@ -173,6 +173,7 @@ select {
     margin-bottom: -30px;
     line-height: 100px;
     text-shadow: 20px 10px 100px rgb(255, 238, 1);
+    user-select: none;
    
 }
 
