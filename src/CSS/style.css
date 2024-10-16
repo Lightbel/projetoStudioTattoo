@@ -1,0 +1,219 @@
+html {
+  
+    background-image: url(https://uploads-ssl.webflow.com/5e78d3547d4a626dcb57ecd0/5e78d3547d4a62b3c757ed2b_bg_concreto.jpg);
+    overflow: hidden;
+    position: static;
+
+}
+
+
+
+
+
+.main {
+
+    background-color: rgb(166, 218, 45);
+    margin: auto;
+    width: 80.2%;
+    height: 100.3%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    position: absolute;
+    transform: translate(12%);
+    margin-top: -7px;
+    overflow: hidden scroll;
+  
+}
+
+
+.header{
+
+    display: flexbox;
+    position: relative;
+    font-family: 'Great Vibes', cursive;
+    margin: auto;
+    text-align:center;
+    background-color: rgb(48, 47, 47);
+    height: 50%;
+    width: 99.52%;
+    border-style: solid;
+    background-repeat: no-repeat;
+    background-image: url(../IMAGE/EuclidesMath.png);
+    background-size: cover;
+    font-size: 30px;
+    
+}
+
+.profile { 
+
+    
+    width: 100px;
+    height: 130px;
+    position: absolute;
+    right: 880px;
+    top: 320px;
+    border-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    text-shadow: 10px 10px 30px rgb(255, 255, 255);
+      
+    
+
+}
+
+
+section {
+
+    padding: 20px;
+    visibility: 40px;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    bottom: 15px;
+
+}
+
+
+.colorRed {
+
+    background-color: rgba(24, 24, 24, 0.829);
+    height: 100vh;
+    width: 40%;
+    float: right;
+    position: relative;
+    bottom: 100.4%;
+
+}
+
+
+.h2 {
+    
+    font-size: 1em;
+
+}
+
+
+.mb {
+    
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+.formContainer {
+    
+    max-width: 300px;
+    background-color: #ffffff00;
+    padding: 100px;
+    float: right;
+    position: relative;
+    width: 250px;
+    left: 30px ;
+    margin-bottom: 100px;
+
+}
+
+
+input, select, textarea {
+    
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 30px;
+
+}
+
+
+input[type="submit"]{
+    
+    color: white;
+    background-color: #48C5CE;
+    font-weight: bold;
+
+}
+
+
+select {
+    
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url(../images/arrow.jpg);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 10PX) center;
+
+}
+
+
+.Name {
+
+    font-family: 'Great Vibes', cursive;
+    transform: rotate(-90deg);
+    font-size: 500%;
+    position: relative;
+    float: left;
+    color: white;
+    right: 730px;
+    bottom: -220px;
+    background-color: rgba(0, 0, 0, 0.034);
+    height: 130px;
+    width: 100rem;
+    text-indent: 450px;
+    text-shadow: 10px 10px 30px rgb(255, 255, 255);
+   
+}
+
+.businessName { transform: translate(-20%)}
+
+.Title { 
+    
+    color: rgb(255, 251, 0); 
+    margin-bottom: -30px;
+    line-height: 100px;
+    text-shadow: 20px 10px 100px rgb(255, 238, 1);
+   
+}
+
+
+.Paragrafo { 
+
+    font-size: 40;
+    color: white;    
+    text-shadow: 10px 10px 30px rgb(255, 255, 255);
+
+}
+
+
+.float {
+    position: absolute;
+    float: right;
+    right: 90px;
+    bottom: 70px;
+
+}
+
+
+::-webkit-scrollbar-track {
+
+    background-color: #000000;
+
+}
+
+
+::-webkit-scrollbar {
+    
+    width: 6px;
+    background-color: #000000;
+            
+}
+
+
+::-webkit-scrollbar-thumb {
+
+    background: #242323;
+
+}
+
+
