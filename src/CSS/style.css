@@ -153,10 +153,10 @@ select {
     transform: rotate(-90deg);
     font-size: 500%;
     position: relative;
-    float: left;
+    float: center;
     color: white;
     right: 700px;
-    bottom: -300px;
+    bottom: -220px;
     background-color: rgba(0, 0, 0, 0.034);
     height: 130px;
     width: 100rem;
