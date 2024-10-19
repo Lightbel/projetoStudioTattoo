@@ -155,8 +155,8 @@ select {
     position: relative;
     float: left;
     color: white;
-    right: 800px;
-    bottom: -220px;
+    right: 730px;
+    bottom: center;
     background-color: rgba(0, 0, 0, 0.034);
     height: 130px;
     width: 100rem;
