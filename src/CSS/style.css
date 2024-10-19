@@ -153,9 +153,9 @@ select {
     transform: rotate(-90deg);
     font-size: 500%;
     position: relative;
-    float: center;
+    float: left;
     color: white;
-    right: 700px;
+    right: 600px;
     bottom: -220px;
     background-color: rgba(0, 0, 0, 0.034);
     height: 130px;
